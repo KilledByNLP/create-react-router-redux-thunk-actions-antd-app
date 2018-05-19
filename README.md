@@ -1,4 +1,5 @@
 # create-react-router-redux-thunk-actions-antd-app
+Quite Simple & Sane Boilerplate made with create-react-app 
 
 ```
 create-react-app create-react-router-redux-thunk-actions-antd-app
