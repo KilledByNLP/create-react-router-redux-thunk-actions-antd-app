@@ -1,6 +1,6 @@
 # create-react-router-redux-thunk-actions-antd-app
 boilerplate
-![](https://i.imgur.com/ATFr2fJ.png)
+![](https://i.imgur.com/7hqjhKl.png)
 
 # Essential
 *   babel-polyfill: ^6.26.0
